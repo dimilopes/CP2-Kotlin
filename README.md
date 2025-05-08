@@ -1,6 +1,6 @@
 # Monitor de Cotação BTC
 
-**Autor:** dimilopes
+**Autor:** Dimitris
 
 ## Descrição Geral
 
