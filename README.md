@@ -98,8 +98,3 @@ A tela principal é composta por uma barra de ferramentas no topo e uma área ce
 
 ![Tela com Valor Atualizado](screenshots/screen_valor_atualizado.png)
 
-## Observações
-
-*   Este projeto foi preparado para ser um novo repositório do utilizador `dimilopes`, com base no código-fonte original.
-*   O objetivo é que este repositório reflita um projeto criado e mantido por `dimilopes`.
-
